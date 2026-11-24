@@ -27,8 +27,8 @@ Fui estagiário fullstack na Dommus Tecnologia, com 18 funcionalidades em produ�
 | Projeto | O que é | Stack |
 | --- | --- | --- |
 | **[devthur.dev](https://devthur.dev)** | Portfólio fullstack em produção, com navegação espacial em vez de scroll e área administrativa. 26 testes de integração. | React 19 · Express 5 · MySQL · Docker · Azure |
-| **[Sistema de Gestão Acadêmica](https://github.com/oficialThur/Faculade)** | CRUD de alunos, cursos e disciplinas com arquitetura MVC + DAO e persistência em MySQL. | Java · MySQL · Docker |
-| **[Algoritmos e Estruturas de Dados](https://github.com/oficialThur/Algoritmos-e-Estruturas-de-Dados-em-Java)** | Estudos e implementações de algoritmos e estruturas de dados em Java. | Java |
+| **[Sistema de Gestão Acadêmica](https://github.com/oficialThur/sistema-gestao-academica)** | CRUD de alunos, cursos e disciplinas com arquitetura MVC + DAO e persistência em MySQL. | Java · MySQL · Docker |
+| **[NestFin](https://github.com/oficialThur/Project_NestFin)** | Aplicação full-stack com Next.js, API em C#/.NET e MySQL, documentada com guias de instalação, arquitetura e deploy na AWS. | Next.js · C#/.NET · MySQL · AWS |
 
 ## 📚 Estudando agora
 
